@@ -116,7 +116,7 @@ export default function Home() {
             <a href="#faq">FAQ</a>
             <a href="#contato">Contato</a>
           </div>
-          <a href="https://wa.me/5545991530576" target="_blank" rel="noopener noreferrer" className="nav-cta">
+          <a href="https://wa.me/5545991530576?text=Ol%C3%A1%2C%20vim%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es" target="_blank" rel="noopener noreferrer" className="nav-cta">
             Agendar
           </a>
         </div>
@@ -137,7 +137,7 @@ export default function Home() {
             <p className="hero-subtitle reveal delay-200">
               Especialistas em Implantes Dentários, Prótese e Estética. Recupere sua autoestima com um sorriso perfeito.
             </p>
-            <a href="https://wa.me/5545991530576" target="_blank" rel="noopener noreferrer" className="btn btn-gold hero-cta reveal delay-300">
+            <a href="https://wa.me/5545991530576?text=Ol%C3%A1%2C%20vim%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es" target="_blank" rel="noopener noreferrer" className="btn btn-gold hero-cta reveal delay-300">
               Agende sua Avaliação
             </a>
           </div>
@@ -501,7 +501,7 @@ export default function Home() {
             <div className="footer-col">
               <h3>Contato</h3>
               <p><Phone size={18} color="#b5973c" /> (45) 99153-0576</p>
-              <a href="https://wa.me/5545991530576" target="_blank" rel="noopener noreferrer" className="btn btn-gold" style={{ padding: '10px 20px', fontSize: '0.9rem', marginTop: '15px' }}>
+              <a href="https://wa.me/5545991530576?text=Ol%C3%A1%2C%20vim%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es" target="_blank" rel="noopener noreferrer" className="btn btn-gold" style={{ padding: '10px 20px', fontSize: '0.9rem', marginTop: '15px' }}>
                 Falar no WhatsApp
               </a>
             </div>
@@ -518,7 +518,7 @@ export default function Home() {
                 <a href="https://www.facebook.com/p/Viver-Sorrisos-Foz-61569360783570/" target="_blank" rel="noopener noreferrer" className="social-icon">
                   <Facebook size={20} />
                 </a>
-                <a href="https://wa.me/5545991530576" target="_blank" rel="noopener noreferrer" className="social-icon">
+                <a href="https://wa.me/5545991530576?text=Ol%C3%A1%2C%20vim%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es" target="_blank" rel="noopener noreferrer" className="social-icon">
                   <Phone size={20} />
                 </a>
               </div>
@@ -532,7 +532,7 @@ export default function Home() {
 
       {/* WHATSAPP FLOAT */}
       <a
-        href="https://wa.me/5545991530576"
+        href="https://wa.me/5545991530576?text=Ol%C3%A1%2C%20vim%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es"
         className="float-whatsapp"
         target="_blank"
         rel="noopener noreferrer"
